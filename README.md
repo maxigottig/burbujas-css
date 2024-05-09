@@ -10,7 +10,7 @@ Este es un proyecto simple de página web que muestra un efecto de burbujas anim
 
 ## Previsualización
 
-![Preview](preview.png)
+![Preview](preview.PNG)
 
 ## Instrucciones de Uso
 
